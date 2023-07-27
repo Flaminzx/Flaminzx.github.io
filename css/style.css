@@ -1,0 +1,50 @@
+body{
+    background: #F7C815;
+    text-align: center;
+}
+header{
+    text-align: center;
+}
+
+.perfil{
+    width: 250px;
+ border-radius: 100%;
+ height: 280px;
+
+}
+body header a h1{
+    font-size: 22px;
+    text-transform: uppercase;
+}
+
+nav img{
+    padding: 7px;
+    width: 60px;
+    border-radius: 100%;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #010701;
+    color: white;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  .btn:hover {
+    background-color: navy;
+  }
+  .btn-list {
+    list-style: none;
+    padding: 0;
+  }
+  .btn-list{
+        margin: 10px 0;
+  }
+  footer img{
+    height: 20px;
+    background-color: #F7C815;
+  }
